@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at [Codosphere](https://www.wyzebulb.com/)
+- 🔭 I’m currently working at [Fincurious](https://fincurious.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kirankumar485](https://github.com/kirankumar485)
 
-- 💬 Ask me about **React,Node Js,Mongo DB,AWS**
+- 💬 Ask me about **React, Node Js, Mongo DB,Firebase, Javascript, HTML, CSS, AWS**
 
 - 📫 How to reach me **kirankick0505@gmail.com**
 
